@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "react.build": "^1.0.5",
+    "webpack": "^5.75.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.0.1"
+  }
+}
